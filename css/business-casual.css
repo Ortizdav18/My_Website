@@ -140,6 +140,11 @@ footer p {
         margin-right: 25px;
     }
 
+    .img-right {
+     float: right;
+     margin-left: 30px;
+    }
+
     .address-bar {
         display: inherit;
         margin: 0;
